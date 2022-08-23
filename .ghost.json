@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://cms.shorttech.de",
-    "contentApiKey": "cf314e70cf6e7fede4c2ad514a"
+    "apiUrl": "https://bitpresse.digitalpress.blog",
+    "contentApiKey": "cd4a729c5aa76550035f254c2f"
   },
   "production": {
-    "apiUrl": "https://cms.shorttech.de",
-    "contentApiKey": "cf314e70cf6e7fede4c2ad514a"
+    "apiUrl": "https://bitpresse.digitalpress.blog",
+    "contentApiKey": "cd4a729c5aa76550035f254c2f"
   }
 }
